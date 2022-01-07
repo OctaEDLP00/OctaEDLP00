@@ -1,16 +1,141 @@
-### Hi there 👋
+Hey you ... If you ... Hello 👋🏼 How are you?
 
-<!--
-**OctaEDLP00/OctaEDLP00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+package net.octacaro.profile;
 
-Here are some ideas to get you started:
+import java.util.ArrayList;
+import java.util.List;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+import java.user.aboutme.aboutMe;
+import java.user.socialnetwork.socialNetwork;
+import java.user.skills.Skills;
+
+public class readMe {
+
+  public void Main(String[] args) {
+    AboutMe about = new AboutMe();
+    about.name = 'Octavio';
+    about.years = '21';
+    about.studies = "I'm currently studying the career of University Programmer Analyst";
+    about.profession = 'Master of Tennis 🎾';
+    about.country = 'Argentina, Buenos Aires 🌎';
+    about.hobbies = 'Music';
+    about.pronunce = 'he || him'
+
+    List<SocialNetwork> socNet = new ArrayList<SocialNetwork>();
+    socNet.instagram.add('https://instagram.com/octaviocaro_21.jsx');
+    socNet.instagram.add('https://instagram.com/octaedlp_21.jsx');
+    socNet.twitter.add('https://twitter.com/CaroOcta00');
+    socNet.gitHub.add('You are here 😂... Give me a Follow?? 🥺');
+    socNet.linkedIn.add('Coming soon...');
+    socNet.email.add('octavio.pincha@gmail.com');
+    socNet.spigotProfile.add('https://spigotmc.org/members/octaedlp00.959862/');
+    socNet.planetMinecraft.add('https://planetminecraft.com/member/mroctamc');
+    socNet.web.add('https://Octa.dev'); // Coming Soon!!
+
+    Skills skill = new Skills();
+    skill.java('Springboot','Mods Minecraft and Plugins');
+    skill.javaScript('Node', 'vanilla','Discord.js');
+    skill.reactJS('Porfolio');
+    skill.ruby(/*at the moment there is no project 😥*/);
+    skill.html('portfolio use jsx');
+    skill.css('vanilla', 'TailwindCSS');
+    skill.reactNative(/*at the moment there is no project 😥*/);
+    skill.mySql
+
+    System.out.println(about);
+    System.out.println(socNet)
+    System.out.println(skill)
+  }
+}
+```
+
+<p align="center">
+
+  [![OctaEDLP00 github stats](https://github-readme-stats.vercel.app/api?username=OctaEDLP00&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/OctaEDLP00)
+
+  ![GitHub](https://img.shields.io/github/followers/OctaEDLP00?label=Follow&style=social)
+  [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CaroOcta00?style=social)](https://twitter.com/CaroOcta00)
+  ![](https://visitor-badge.glitch.me/badge?page_id=OctaEDLP00.OctaEDLP00)
+  [![](https://img.shields.io/badge/Gmail-octavio.pincha%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox?compose=CllgCJfqcGXJstdSFXqkJRrWnHwsFlBNPrJdXpGfZDSldqntJwNsxHdCQshxZthqCLNSlCGRBLB)
+</p>
+
+---
+
+## Skills: 
+
+<p align="center">
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/JavaScript-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="JavaScript">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="React">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="React Native">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="MySQL">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/java-lightblue.svg?style=for-the-badge&logo=java&logoColor=orange&labelColor=ffffff" alt="Java">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=red&labelColor=ffffff" alt="Ruby">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/html-orange.svg?style=for-the-badge&logo=html5&logoColor=orange&labelColor=ffffff" alt="HTML">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css3&logoColor=blue&labelColor=ffffff" alt="CSS3">
+  </a>
+</p>
+
+---
+## Editors:
+<p align="center">
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/sublime-orange.svg?style=for-the-badge&logo=sublime-text&labelColor=black&logoColor=orange" alt="">
+  </a>
+</p>
+
+---
+## OS:
+
+<p align="center">
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="Windows">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/android-green.svg?style=for-the-badge&logo=android&logoColor=3795fa&labelColor=ffffff" alt="Android">
+  </a>
+</p>
+
+---
+## Tools:
+
+<p align="center">
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="Git">
+  </a>
+  <br>
+  <a href="https://github.com/priyanshumay">
+    <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="GitHub">
+  </a>
+</p>
+
+---
+
+⭐️ From [naveenverma1](https://github.com/naveenverma1)
