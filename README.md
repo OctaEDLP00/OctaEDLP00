@@ -64,7 +64,7 @@ public class readMe {
 
 ## Skills: 
 
-<p align="center">
+<p>
   <a href="https://github.com/priyanshumay">
     <img src="https://img.shields.io/badge/JavaScript-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="JavaScript">
   </a>
@@ -100,7 +100,7 @@ public class readMe {
 
 ---
 ## Editors:
-<p align="center">
+<p>
   <a href="https://github.com/priyanshumay">
     <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
   </a>
@@ -113,7 +113,7 @@ public class readMe {
 ---
 ## OS:
 
-<p align="center">
+<p>
   <a href="https://github.com/priyanshumay">
     <img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="Windows">
   </a>
@@ -126,7 +126,7 @@ public class readMe {
 ---
 ## Tools:
 
-<p align="center">
+<p>
   <a href="https://github.com/priyanshumay">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="Git">
   </a>
@@ -138,4 +138,4 @@ public class readMe {
 
 ---
 
-⭐️ From [naveenverma1](https://github.com/naveenverma1)
+⭐️ From [OctaEDLP00](https://github.com/OctaEDLP00)
