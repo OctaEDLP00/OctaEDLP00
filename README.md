@@ -34,6 +34,7 @@ public class readMe {
     socNet.web.add('https://Octa.dev'); // Coming Soon!!
 
     Skills skill = new Skills();
+    skill.pascal()
     skill.java('Springboot','Mods Minecraft and Plugins');
     skill.javaScript('Node', 'vanilla','Discord.js');
     skill.reactJS('Porfolio');
