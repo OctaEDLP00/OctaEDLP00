@@ -69,7 +69,7 @@ public class readMe {
 
 <p>
   <a href="https://astro.build/" target="_blank">
-    <img src="https://img.shields.io/node/v/astro?logo=astro&label=Astro&logoColor=1d3c4f&labelColor=ffffff&style=plastic" alt="Astro">
+    <img src="https://img.shields.io/npm/v/astro?logo=astro&label=Astro&logoColor=1d3c4f&labelColor=ffffff&style=plastic" alt="Astro">
   </a>
   <br>
   <a href="https://typescript-lang.org" target="_blank">
