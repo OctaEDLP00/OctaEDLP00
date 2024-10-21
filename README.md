@@ -1,7 +1,5 @@
 # Hey you ... If you ... Hello 👋🏼 How are you? 
 
-> My name is Octavio and it is my Github Profile
-
 ```java
 package net.octacaro.profile;
 
@@ -69,8 +67,6 @@ public class readMe {
   [![](https://img.shields.io/badge/Gmail-octavio.pincha%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox?compose=CllgCJfqcGXJstdSFXqkJRrWnHwsFlBNPrJdXpGfZDSldqntJwNsxHdCQshxZthqCLNSlCGRBLB)
 </p>
 
----
-
 ## Skills: 
 
 <p align="center">
@@ -110,7 +106,6 @@ public class readMe {
   </a>
 </p>
 
----
 ## Editors:
 <p align="center">
   <a href="https://code.visualstudio.com/download" target="_blank">
@@ -121,7 +116,6 @@ public class readMe {
   </a>
 </p>
 
----
 ## OS:
 
 <p align="center">
@@ -136,7 +130,6 @@ public class readMe {
   </a>
 </p>
 
----
 ## Tools:
 
 <p align="center">
@@ -148,7 +141,6 @@ public class readMe {
   </a>
 </p>
 
----
 ## MY Repo Github
 
 <div>
