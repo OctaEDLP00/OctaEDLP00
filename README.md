@@ -1,4 +1,6 @@
-Hey you ... If you ... Hello 👋🏼 How are you?
+# Hey you ... If you ... Hello 👋🏼 How are you? 
+
+> My name is Octavio and it is my Github Profile
 
 ```java
 package net.octacaro.profile;
@@ -15,6 +17,7 @@ public class readMe {
   public void Main(String[] args) {
     AboutMe about = new AboutMe();
     about.name = 'Octavio';
+    about.surname = 'Caro';
     about.years = '23';
     about.studies = "I'm currently studying";
     about.profession = 'Master of Tennis 🎾';
@@ -70,11 +73,10 @@ public class readMe {
 
 ## Skills: 
 
-<p>
+<p align="center">
   <a href="https://astro.build/" target="_blank">
     <img src="https://img.shields.io/badge/astro-red.svg?&logo=astro&logoColor=1d3c4f&labelColor=ffffff&style=for-the-badge" alt="Astro">
   </a>
-  <br>
   <a href="https://typescript-lang.org" target="_blank">
     <img src="https://img.shields.io/badge/typescript-blue.svg?logo=typescript&logoColor=blue&labelColor=ffffff&style=for-the-badge" alt="TypeScript">
   </a>
@@ -82,7 +84,6 @@ public class readMe {
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-f5f542.svg?logo=javascript&logoColor=f5f542&labelColor=ffffff&style=for-the-badge" alt="JavaScript">
   </a>
-  <br>
   <a href="https://react.dev/reference/react" target="_blank">
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?logo=react&logoColor=61DAFB&labelColor=ffffff&style=for-the-badge" alt="React">
   </a>
@@ -90,7 +91,6 @@ public class readMe {
   <a href="https://reactnative.dev/docs/getting-started" target="_blank">
     <img src="https://img.shields.io/badge/React Native-3aabe8.svg?logo=react&logoColor=3aabe8&labelColor=ffffff&style=for-the-badge" alt="React Native">
   </a>
-  <br>
   <a href="https://dev.mysql.com" target="_blank">
     <img src="https://img.shields.io/badge/mysql-3aabe8.svg?logo=mysql&logoColor=3aabe8&labelColor=ffffff&style=for-the-badge" alt="MySQL">
   </a>
@@ -98,7 +98,6 @@ public class readMe {
   <a href="https://www.ruby-lang.org/en" target="_blank">
     <img src="https://img.shields.io/badge/ruby-red.svg?logo=ruby&logoColor=red&labelColor=ffffff&style=for-the-badge" alt="Ruby">
   </a>
-  <br>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/html-orange.svg?logo=html5&logoColor=orange&labelColor=ffffff&style=for-the-badge" alt="HTML">
   </a>
@@ -106,7 +105,6 @@ public class readMe {
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/css-blue.svg?logo=css3&logoColor=blue&labelColor=ffffff&style=for-the-badge" alt="CSS3">
   </a>
-  <br>
   <a href="https://docs.oracle.com/en/java" target="_blank">
     <img src="https://img.shields.io/badge/logo-java-lightblue.svg?logo=java&logoColor=orange&labelColor=ffffff&style=for-the-badge" alt="Java">
   </a>
@@ -114,11 +112,10 @@ public class readMe {
 
 ---
 ## Editors:
-<p>
+<p align="center">
   <a href="https://code.visualstudio.com/download" target="_blank">
     <img src="https://img.shields.io/badge/vscode-blue.svg?logo=visual-studio-code&labelColor=ffffff&logoColor=blue&style=for-the-badge" alt="vscode">
   </a>
-  <br>
   <a href="https://sublimetext.com/download" target="_blank">
     <img src="https://img.shields.io/badge/sublime-orange.svg?logo=sublime-text&labelColor=black&logoColor=orange&style=for-the-badge" alt="Sublime Text">
   </a>
@@ -127,15 +124,13 @@ public class readMe {
 ---
 ## OS:
 
-<p>
+<p align="center">
   <a href="https://learn.microsoft.com/en-us/windows/" target="_blank">
     <img src="https://img.shields.io/badge/windows-3795fa.svg?logo=windows&logoColor=3795fa&labelColor=ffffff&style=for-the-badge" alt="Windows">
   </a>
-  <br>
   <a href="https://developer.android.com/docs?hl=es-419" target="_blank">
     <img src="https://img.shields.io/badge/android-green.svg?logo=android&logoColor=3795fa&labelColor=ffffff&style=for-the-badge" alt="Android">
   </a>
-  <br>
   <a href="https://learn.microsoft.com/es-es/windows/wsl/install" target="_blank">
     <img src="https://img.shields.io/badge/wsl-blue.svg?logo=android&logoColor=3795fa&labelColor=ffffff&style=for-the-badge" alt="WSL">
   </a>
@@ -144,11 +139,10 @@ public class readMe {
 ---
 ## Tools:
 
-<p>
+<p align="center">
   <a href="https://git-scm.com" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?logo=git&logoColor=F05032&labelColor=ffffff&style=for-the-badge" alt="Git">
   </a>
-  <br>
   <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/github-black.svg?logo=github&logoColor=black&labelColor=ffffff&style=for-the-badge" alt="GitHub">
   </a>
@@ -158,9 +152,9 @@ public class readMe {
 ## MY Repo Github
 
 <div>
-  <p align="center">
-	  <a href="https://github.com/OctaEDLP00/cuando-juega-edlp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=cuando-juega-edlp&theme=dark" alt="GitHub Stats" />
+	<p align="center">
+    <a href="https://github.com/OctaEDLP00/cuando-juega-edlp">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=cuando-juega-edlp&theme=dark" alt="GitHub Stats" />
     </a>
 	  <a href="https://github.com/OctaEDLP00/Surviblia-API">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Surviblia-API&theme=dark" alt="GitHub Stats" />
