@@ -55,19 +55,14 @@ public class readMe {
 }
 ```
 
-<p align="center">
+[![OctaEDLP00 github stats](https://github-readme-stats.vercel.app/api?username=OctaEDLP00&show_icons=true&theme=dark&hide=["contribs","issues"])](https://github.com/OctaEDLP00)
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OctaEDLP00&theme=dark&layout=compact)](https://github.com/OctaEDLP00)
+![GitHub](https://img.shields.io/github/followers/OctaEDLP00?label=Follow&style=social)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CaroOcta00?style=social)](https://twitter.com/CaroOcta00)
+![](https://visitor-badge.glitch.me/badge?page_id=OctaEDLP00.OctaEDLP00)
+[![](https://img.shields.io/badge/Gmail-octavio.pincha%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox?compose=CllgCJfqcGXJstdSFXqkJRrWnHwsFlBNPrJdXpGfZDSldqntJwNsxHdCQshxZthqCLNSlCGRBLB)
 
-  [![OctaEDLP00 github stats](https://github-readme-stats.vercel.app/api?username=OctaEDLP00&show_icons=true&theme=dark&hide=["contribs","issues"])](https://github.com/OctaEDLP00)
-
-  [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OctaEDLP00&theme=dark&layout=compact)](https://github.com/OctaEDLP00)
-
-  ![GitHub](https://img.shields.io/github/followers/OctaEDLP00?label=Follow&style=social)
-  [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CaroOcta00?style=social)](https://twitter.com/CaroOcta00)
-  ![](https://visitor-badge.glitch.me/badge?page_id=OctaEDLP00.OctaEDLP00)
-  [![](https://img.shields.io/badge/Gmail-octavio.pincha%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox?compose=CllgCJfqcGXJstdSFXqkJRrWnHwsFlBNPrJdXpGfZDSldqntJwNsxHdCQshxZthqCLNSlCGRBLB)
-</p>
-
-## Skills: 
+<h2> Skills: </h2>
 
 <p align="center">
   <a href="https://astro.build/" target="_blank">
@@ -106,7 +101,8 @@ public class readMe {
   </a>
 </p>
 
-## Editors:
+<h2> Editors: </h2>
+
 <p align="center">
   <a href="https://code.visualstudio.com/download" target="_blank">
     <img src="https://img.shields.io/badge/vscode-blue.svg?logo=visual-studio-code&labelColor=ffffff&logoColor=blue&style=for-the-badge" alt="vscode">
@@ -116,7 +112,7 @@ public class readMe {
   </a>
 </p>
 
-## OS:
+<h2> OS: </h2>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/windows/" target="_blank">
@@ -130,7 +126,7 @@ public class readMe {
   </a>
 </p>
 
-## Tools:
+<h2> Tools: </h2>
 
 <p align="center">
   <a href="https://git-scm.com" target="_blank">
@@ -141,7 +137,7 @@ public class readMe {
   </a>
 </p>
 
-## MY Repo Github
+<h2> MY Repo Github </h2>
 
 <div>
 	<p align="center">
