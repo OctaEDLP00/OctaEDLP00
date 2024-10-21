@@ -1,4 +1,4 @@
-# Hey you ... If you ... Hello 👋🏼 How are you? 
+<h1> Hey you ... If you ... Hello 👋🏼 How are you? </h1>
 
 ```java
 package net.octacaro.profile;
@@ -64,7 +64,7 @@ public class readMe {
 
 <h2> Skills: </h2>
 
-<p align="center">
+<p>
   <a href="https://astro.build/" target="_blank">
     <img src="https://img.shields.io/badge/astro-red.svg?&logo=astro&logoColor=1d3c4f&labelColor=ffffff&style=for-the-badge" alt="Astro">
   </a>
@@ -103,7 +103,7 @@ public class readMe {
 
 <h2> Editors: </h2>
 
-<p align="center">
+<p>
   <a href="https://code.visualstudio.com/download" target="_blank">
     <img src="https://img.shields.io/badge/vscode-blue.svg?logo=visual-studio-code&labelColor=ffffff&logoColor=blue&style=for-the-badge" alt="vscode">
   </a>
@@ -114,7 +114,7 @@ public class readMe {
 
 <h2> OS: </h2>
 
-<p align="center">
+<p>
   <a href="https://learn.microsoft.com/en-us/windows/" target="_blank">
     <img src="https://img.shields.io/badge/windows-3795fa.svg?logo=windows&logoColor=3795fa&labelColor=ffffff&style=for-the-badge" alt="Windows">
   </a>
@@ -128,7 +128,7 @@ public class readMe {
 
 <h2> Tools: </h2>
 
-<p align="center">
+<p>
   <a href="https://git-scm.com" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?logo=git&logoColor=F05032&labelColor=ffffff&style=for-the-badge" alt="Git">
   </a>
@@ -140,7 +140,7 @@ public class readMe {
 <h2> MY Repo Github </h2>
 
 <div>
-	<p align="center">
+	<p>
     <a href="https://github.com/OctaEDLP00/cuando-juega-edlp">
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=cuando-juega-edlp&theme=dark" alt="GitHub Stats" />
     </a>
