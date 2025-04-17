@@ -145,13 +145,13 @@ public class ReadMe {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=cuando-juega-edlp&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/Surviblia">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Surviblia-API&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Surviblia&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/Surviblia-API">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Surviblia-API&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/Surviblia-WEB">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Surviblia-API&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Surviblia-Web&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/aprendetypescript.dev">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=aprendetypescript.dev&theme=dark" alt="GitHub Stats" />
@@ -193,7 +193,7 @@ public class ReadMe {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=portfolio-style-ig&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/create-node-cli">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=meme-creator&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=create-node-cli&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/Book-API-Backend">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Book-API-Backend&theme=dark" alt="GitHub Stats" />
@@ -201,8 +201,8 @@ public class ReadMe {
     <a href="https://github.com/OctaEDLP00/r-info-snippets">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=r-info-snippets&theme=dark" alt="GitHub Stats" />
     </a>
-	  <a href="https://github.com/OctaEDLP00/Screenly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/OctaEDLP00/Screenly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Screenly&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
