@@ -202,7 +202,7 @@ public class ReadMe {
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=r-info-snippets&theme=dark" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/OctaEDLP00/Screenly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Screenly&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctaEDLP00&repo=Screenly&theme=dark" alt="GitHub Stats" />
     </a>
   </p>
 </div>
