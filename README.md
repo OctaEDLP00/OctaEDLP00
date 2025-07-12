@@ -1,4 +1,4 @@
-<h1> Hey you ... If you ... Hello 👋🏼 How are you? </h1>
+<h1> I'm Octavio, I am currently studying self-taught... </h1>
 
 ```java
 package net.octacaro.profile;
@@ -24,12 +24,11 @@ public class ReadMe {
     about.pronunce = 'he || him'
 
     List<SocialNetwork> socNet = new ArrayList<SocialNetwork>();
-    socNet.instagram.add('https://instagram.com/octaviocaro_23.tsx');
-    socNet.instagram.add('https://instagram.com/octaedlp_23.tsx');
+    socNet.instagram.add('https://instagram.com/octaviocaro_24.astro');
+    socNet.instagram.add('https://instagram.com/octaedlp_24.tsx');
     socNet.twitter.add('https://twitter.com/CaroOcta00');
     socNet.gitHub.add('You are here 😂... Give me a Follow?? 🥺');
     socNet.linkedIn.add('https://linkedin.com/in/octavio-caro-a6b4b9330');
-    socNet.email.add('octavio.pincha@gmail.com');
     socNet.spigotProfile.add('https://spigotmc.org/members/octaedlp00.959862/');
     socNet.planetMinecraft.add('https://planetminecraft.com/member/mroctamc');
     socNet.web.add(['https://cuando-juega-edlp.netlify.app']);
@@ -40,8 +39,7 @@ public class ReadMe {
     skill.javaScript('Node', 'vanilla','Discord.js');
     skill.typescript('Node', 'Express'); 
     skill.reactJS();
-    skill.astro();
-    skill.ruby(); /* at the moment there is no project 😥 */
+    skill.astro('https://cuando-juega-edlp.netlify.app');
     skill.html();
     skill.css('vanilla', 'TailwindCSS');
     skill.reactNative(); /* at the moment there is no project 😥 */
@@ -86,9 +84,6 @@ public class ReadMe {
     <img src="https://img.shields.io/badge/mysql-3aabe8.svg?logo=mysql&logoColor=3aabe8&labelColor=ffffff&style=for-the-badge" alt="MySQL">
   </a>
   <br>
-  <a href="https://www.ruby-lang.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/ruby-red.svg?logo=ruby&logoColor=red&labelColor=ffffff&style=for-the-badge" alt="Ruby">
-  </a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/html-orange.svg?logo=html5&logoColor=orange&labelColor=ffffff&style=for-the-badge" alt="HTML">
   </a>
@@ -106,9 +101,6 @@ public class ReadMe {
 <p>
   <a href="https://code.visualstudio.com/download" target="_blank">
     <img src="https://img.shields.io/badge/vscode-blue.svg?logo=visual-studio-code&labelColor=ffffff&logoColor=blue&style=for-the-badge" alt="vscode">
-  </a>
-  <a href="https://sublimetext.com/download" target="_blank">
-    <img src="https://img.shields.io/badge/sublime-orange.svg?logo=sublime-text&labelColor=black&logoColor=orange&style=for-the-badge" alt="Sublime Text">
   </a>
 </p>
 
